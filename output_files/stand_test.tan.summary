@@ -1,0 +1,56 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 7.500 ns
+From           : p_IN_IMP_LAS
+To             : s_LAS_FILTER[3]
+From Clock     : --
+To Clock       : p_CLK
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 12.300 ns
+From           : p_OUT_IMP[10]~reg0
+To             : p_OUT_IMP[10]
+From Clock     : p_CLK
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : -2.800 ns
+From           : p_IN_IMP_GEN
+To             : s_GEN_FILTER[3]
+From Clock     : --
+To Clock       : p_CLK
+Failed Paths   : 0
+
+Type           : Clock Setup: 'p_CLK'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 58.82 MHz ( period = 17.000 ns )
+From           : s_CNT[4]
+To             : s_CNT[0]
+From Clock     : p_CLK
+To Clock       : p_CLK
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+

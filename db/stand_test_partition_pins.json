@@ -1,0 +1,89 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "p_VOLTAGE_MODE[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE_MODE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE_MODE_STRB",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_LED_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[0]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[2]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[3]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[4]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[5]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE[6]",
+					"strict" : false
+				},
+				{
+					"name" : "p_VOLTAGE_STRB",
+					"strict" : false
+				},
+				{
+					"name" : "p_BTN_VOLT_CNTR",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

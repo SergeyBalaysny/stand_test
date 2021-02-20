@@ -1,0 +1,7 @@
+
+State Machine - |stand_test|s_FSM
+Name s_FSM.st_imp s_FSM.st_delay s_FSM.st_las s_FSM.st_gen 
+s_FSM.st_gen 0 0 0 0 
+s_FSM.st_las 0 0 1 1 
+s_FSM.st_delay 0 1 0 1 
+s_FSM.st_imp 1 0 0 1 
